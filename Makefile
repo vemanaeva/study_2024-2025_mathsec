@@ -1,8 +1,8 @@
-COURSE = 
+COURSE = mathsec
 
 .PHONY: all clean
 
-all: help
+all: prepare
 
 help:
 	@echo 'Usage:'
